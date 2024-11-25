@@ -1,0 +1,21 @@
+{
+    "name": "ellag/custom-socialite-package",
+    "description": "Package for OAuth Providers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ellag\\CustomSocialitePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elena Lagiou",
+            "email": "elena@cliomuseapp.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/socialite": "^6.0@dev"
+    }
+}
