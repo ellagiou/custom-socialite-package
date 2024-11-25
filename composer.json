@@ -1,11 +1,11 @@
 {
-    "name": "ellag/custom-socialite-package",
+    "name": "ellagiou/custom-socialite-package",
     "description": "Package for OAuth Providers",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ellag\\CustomSocialitePackage\\": "src/"
+            "Ellagiou\\CustomSocialitePackage\\": "src/"
         }
     },
     "authors": [
