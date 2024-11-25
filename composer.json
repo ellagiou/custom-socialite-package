@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "laravel/socialite": "^6.0@dev"
+        "laravel/socialite": "^5.16"
     }
 }
